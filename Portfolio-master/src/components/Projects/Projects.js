@@ -24,7 +24,7 @@ function Projects() {
               isBlog={false}
               title="NSEIT.Ltd"
               Duration= "2019-2021"
-              description="Streamlined data streaming processes, improving real-time data flow in critical financial systems. Developed responsive front-end applications, which enhanced system responsiveness, reduced processing times, and improved the overall user experience for high-demand financial platforms."
+              description="Streamlined data processing processes,improving real-time data flow in critical financial systems.Developed responsive front-end applications, which enhanced system responsiveness, reduced processing times, and improved the overall user experience for high-demand financial platforms."
             />
           </Col>
           <Col md={4} className="project-card">
